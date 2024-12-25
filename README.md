@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Welcome to the GitHub Universe! 🌟</h1>
-<h2 align="center">Hi there 👋, I'm <span style="color:#6A5ACD;">Ahsan Nafess</span></h2>
-<h3 align="center">Explore Projects, Skills, and Innovations</h3>
-<h4 align="center">Your One-Stop Hub for Frontend Development, Tech Insights, and More</h4>
+<h2 align="left">Hi there 👋, I'm <span style="color:#6A5ACD;">Ahsan Nafess</span></h2>
+<h3 align="left">Explore Projects, Skills, and Innovations</h3>
+<h4 align="left">Your One-Stop Hub for Frontend Development, Tech Insights, and More</h4>
 
 ---
 
@@ -89,10 +89,15 @@ Each project is crafted with care, reflecting my expertise in modern tools and u
 ### 📈 **GitHub Highlights**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsannafees903&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsannafees903&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsannafees903&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsannafees903&layout=compact&theme=radical" alt="Top Languages" style="width:400px; height:200px;" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsannafees903&show_icons=true&theme=radical" alt="GitHub Stats" style="width:400px; height:200px; margin-bottom: 20px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsannafees903&theme=radical" alt="GitHub Streak" style="width:400px; height:200px; margin-bottom: 20px;" />
+</p>
+
+
+
 
 ---
 
