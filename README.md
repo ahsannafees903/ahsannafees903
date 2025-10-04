@@ -79,9 +79,9 @@ I'm a backend-focused developer helping **startups, agencies, and consultants** 
 
 ### 🤝 **Let's Connect**
 <p align="center">
-  <a href="https://linkedin.com/in/m-ahsan-nafees-237a8a259"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/m_ahsan_nafees"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://stackoverflow.com/users/m-ahsan-nafees"><img src="https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href=""><img src="https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 </p>
 
 ---
